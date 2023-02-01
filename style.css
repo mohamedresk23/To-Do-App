@@ -48,7 +48,7 @@ body {
 
 .tasks .task {
   background-color: #666;
-  padding: 12px;
+  padding: 12px 12px 12px 50px;
   border-radius: 6px;
   display: flex;
   justify-content: space-between;
